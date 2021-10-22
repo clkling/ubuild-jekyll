@@ -1,0 +1,29 @@
+---
+label: 3 column try
+hide_body: true
+fields:
+- type: text
+  name: label
+  label: label
+- type: boolean
+  name: hide_body
+  label: hide_body
+- type: field_group_list
+  name: fields
+  label: fields
+  fields:
+  - type: text
+    name: type
+    label: type
+  - type: boolean
+    name: hidden
+    label: hidden
+  - type: text
+    name: label
+    label: label
+  - type: text
+    name: name
+    label: name
+  - type: text
+    name: default
+    label: default
