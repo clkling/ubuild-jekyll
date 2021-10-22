@@ -48,5 +48,9 @@ page_sections:
     image: "/uploads/2021/10/22/mvimg_20180729_160213_1.jpg"
     alt_text: corbin next to a large hexacopter mapping drone
   slug: ''
+menu:
+  main:
+    weight: 1
+    title: homepage
 
 ---

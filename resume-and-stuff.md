@@ -19,5 +19,8 @@ page_sections:
   image_2:
     image: "/uploads/2021/10/22/clk_resume_nov_2019_page_2.png"
     caption: corbin resume page 2
+menu:
+  main:
+    weight: 2
 
 ---
