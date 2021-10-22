@@ -6,8 +6,8 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
-  - link: ''
-    link_text: ''
+  - link: "/resume"
+    link_text: resume
   - link: "/"
     link_text: homepage
   logo: ''
