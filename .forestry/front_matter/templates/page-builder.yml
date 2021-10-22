@@ -32,6 +32,7 @@ fields:
   - simple-footer
   - 4-column-footer
 pages:
+- "./corbin-l.kling-ph.d.copy.md"
 - index.md
 - index.md
 - resume-and-stuff.md
