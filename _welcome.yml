@@ -1,5 +1,5 @@
 ---
-title: Corbin uBuild Design Blocks
+title: CLK
 author: clkling
 email: clkling@ncsu.edu
 description: ubuild-jekyll is a Jekyll theme desgined to work with Forestry's Blocks
@@ -13,5 +13,6 @@ defaults:
   values:
     layout: default
 plugins:
+- ''
 - jekyll-feed
 - jekyll-menus
