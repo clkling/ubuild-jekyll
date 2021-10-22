@@ -1,6 +1,6 @@
 ---
 layout: blocks
-title: Resume and stuff :)
+title: resume
 date: 
 page_sections:
 - template: 2-column-media-element
