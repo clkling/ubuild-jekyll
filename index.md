@@ -3,17 +3,6 @@ layout: blocks
 title: Corbin L. Kling, Ph.D.
 date: 2021-10-22 16:05:00 +0000
 page_sections:
-- template: navigation-header-w-button
-  block: header-2
-  navigation:
-  - link: "/resume"
-    link_text: resume
-  - link: "/"
-    link_text: homepage
-  logo: ''
-  cta:
-    url: ''
-    button_text: ''
 - template: content-feature
   block: feature-1
   media_alignment: Right
