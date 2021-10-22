@@ -3,16 +3,9 @@ layout: blocks
 title: Corbin L. Kling, Ph.D.
 date: 2021-10-22 16:05:00 +0000
 page_sections:
-- template: navigation-header
-  block: header-1
-  navigation:
-  - link: ''
-    link_text: ''
-  - link: what is link
-    link_text: ''
-  - link: ''
-    link_text: ''
-  logo: ''
+- template: simple-header
+  block: header-3
+  logo: "/uploads/2021/10/22/pano_20170429_175915.jpg"
 - template: content-feature
   block: feature-1
   media_alignment: Right
