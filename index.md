@@ -6,8 +6,10 @@ page_sections:
 - template: navigation-header-w-button
   block: header-2
   navigation:
-  - link: homepage
-    link_text: "/"
+  - link: ''
+    link_text: ''
+  - link: "/"
+    link_text: homepage
   logo: ''
   cta:
     url: ''
